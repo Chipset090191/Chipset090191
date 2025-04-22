@@ -4,5 +4,5 @@
 - 👯 Always open to collaborations. Nice thing
 - 📫 How to reach me:<br>
      - Telegram: [@Michael_IOS_DEV](https://t.me/Chipset090191);
-     - LinkedIn: [Mikhail Tikhomirov]([https://t.me/Chipset090191](https://www.linkedin.com/in/mikhail-tikhomirov-303169288/)). 
+     - LinkedIn: [@Mikhail Tikhomirov]([https://t.me/Chipset090191](https://www.linkedin.com/in/mikhail-tikhomirov-303169288/)). 
 
