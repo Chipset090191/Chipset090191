@@ -2,5 +2,6 @@
 
 - 📖 I`m trying to be deep inside of new technics in IOS and behind. Getting new information is important for me
 - 👯 Always open to collaborations. Nice thing
-- 📫 How to reach me: Telegram: [@Michael_IOS_DEV](https://t.me/Chipset090191), 
+- 📫 How to reach me:
+    · Telegram: [@Michael_IOS_DEV](https://t.me/Chipset090191), 
 
