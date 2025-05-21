@@ -1,4 +1,4 @@
-## Hi there 👋 I’m a passionate iOS💔 developer 😜.
+## Hi there 👋 I’m a passionate in IOS development and engineering 😜.
 
 My expertise includes developing applications that adhere to SOLID principles, with a focus on creating well-thought-out application architectures, debugging, and optimizing performance to ensure smooth and efficient app experiences.
 
